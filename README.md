@@ -1,2 +1,2 @@
-# medbillapp
+# react-template
 Created with CodeSandbox
